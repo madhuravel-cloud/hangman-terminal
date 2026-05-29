@@ -1,0 +1,4 @@
+cat,dog,sun,ball,fish,tree,milk,book,apple,chair,house,bread,smile,water,tiger,green,school,monkey,flower,pencil,
+table,phone,mouse,clock,brush,window,garden,orange,banana,rocket,candle,planet,button,bottle,farmer,kitten,pillow,market,doctor,engine,
+rabbit,carrot,school,friend,basket,hammer,jungle,bridge,camera,diamond,blanket,teacher,picture,station,holiday,airport,penguin,library,monster,thunder,
+village,notebook,backpack,football,computer,elephant,chocolate,sandwich,treasure,birthday,adventure,building,keyboard,umbrella,triangle,dinosaur,princess,painting,language,hospital
